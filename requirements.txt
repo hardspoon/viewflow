@@ -1,0 +1,17 @@
+# Django and REST Framework
+Django==5.0.1
+djangorestframework==3.14.0
+djangorestframework-simplejwt==5.3.1
+django-cors-headers==4.3.1
+
+# Azure AD Authentication
+django-microsoft-auth==3.0.1
+msal==1.25.0
+
+# External Service Dependencies
+python-docuseal==1.0.0
+O365==2.0.26
+requests==2.31.0
+
+# Development Tools
+python-dotenv==1.0.0
